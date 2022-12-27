@@ -6,12 +6,14 @@
     <body>
         <h1>Libros Favoritos</h1>
         <table>
+             <thead>
             <tr>
                 <th>Titulo</th>
                 <th>Autor</th>
                 <th>Año de publicación</th>
                 <th>Enlace a Amazon</th>
             </tr>
+        </thead>
             <tr>
                 <td>Hija de humo y hueso</td>
                 <td> Laini Taylor</td>
