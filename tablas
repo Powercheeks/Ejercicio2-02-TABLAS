@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <h1>Libros Favoritos</h1>
+        <table>
+            <tr>
+                <th>Titulo</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>Hija de humo y hueso</td>
+                <td> Laini Taylor</td>
+                <td>2013</td>
+                <td> <a href="https://www.amazon.com/-/es/Laini-Taylor/dp/8466326766">Ver en amazon</a></td>
+            </tr>
+            <tr>
+                <td>Shatter Me</td>
+                <td>Tahereh Mafi</td>
+                <td>2018</td>
+                <td><a href="https://www.amazon.com/-/es/Tahereh-Mafi/dp/0062085506/ref=sr_1_1?crid=2G3L1EZQRZZE4&keywords=shatter+me&qid=1672147224&s=books&sprefix=shatter%2Cstripbooks-intl-ship%2C250&sr=1-1">Ver en amazon</a></td>
+            </tr>
+            <tr>
+                <td>La Biblia de los Caidos</td>
+                <td>Fernando Trujillo</td>
+                <td>2014</td>
+                <td><a href="https://www.amazon.com/-/es/dp/B09TPTRD3C/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=Z97ATO8NT3FE&keywords=la+biblia+de+los+caidos&qid=1672147292&s=books&sprefix=la+biblia+de+los+caido%2Cstripbooks-intl-ship%2C218&sr=1-1">Ver en amazon</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
+
